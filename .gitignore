@@ -125,3 +125,5 @@ open_cypress.bat
 #npm install or yarn
 package-lock.json
 yarn-lock.json
+cypress/videos
+cypress/screenshots
