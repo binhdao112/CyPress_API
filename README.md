@@ -1,4 +1,4 @@
-# Test booking flight and login with CyPress
+# Demo Test API with CyPress
 Setup Enviroment:
 --------------
 * Install NodeJS in [NodeJS Home](https://nodejs.org/)
